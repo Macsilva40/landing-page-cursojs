@@ -252,4 +252,8 @@
   .menu-spacing {
     display: none;
   }
+
+  .main-content h2 {
+    height: 100vh;
+  }
 }
